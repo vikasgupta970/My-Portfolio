@@ -1,4 +1,4 @@
-# Your Name's Portfolio
+# Vikas Portfolio
 
 Welcome to my GitHub portfolio! This repository showcases a collection of my projects, coding skills, and interests. Feel free to explore and get in touch if you have any questions or collaboration opportunities.
 
